@@ -36,11 +36,11 @@ I'm passionate about building modern web applications and continuously learning 
 - 📝 **Task Manager App** – React + Express + MySQL  
 - 📊 **Portfolio Website** – React + CSS  
 - 🔐 **Authentication System** – Node.js + JWT  
-➡️ Explore more in my [repositories](https://github.com/Gtkk-ala?tab=repositories)!
+➡️ Explore more in my [repositories](https://github.com/GTK-Kala?tab=repositories)!
 
 ---
 ## 📊 GitHub Stats  
-![Gtkkala's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gtk-kala&show_icons=true&theme=radical)
+![Gtkkala's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GTK-kala&show_icons=true&theme=radical)
 
 ---
 
