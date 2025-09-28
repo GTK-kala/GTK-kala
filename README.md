@@ -2,8 +2,10 @@
 
 🚀 **Software Engineer | Aspiring Full-Stack Developer**  
 
-I'm passionate about building modern web applications and continuously learning new technologies in full-stack development and related fields. I enjoy solving real-world problems through code and contributing to meaningful projects.  
+I'm passionate about building modern web applications and continuously learning new technologies in full-stack development and related fields. I enjoy solving real-world problems through code and contributing to meaningful projects.
+
 ---
+
 ## 🔧 Tech Stack & Skills  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -12,22 +14,31 @@ I'm passionate about building modern web applications and continuously learning 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
+
 ---
+
 ## 🌱 Currently Exploring  
 - Advanced full-stack development practices  
 - Cloud computing & deployment (AWS, Docker, etc.)  
-- Modern backend patterns with Express.js & MySQL  
+- Modern backend patterns with Express.js & MySQL
+   
 ---
+
 ## 📂 Featured Projects  
 - 📝 **Task Manager App** – React + Express + MySQL  
 - 📊 **Portfolio Website** – React + CSS  
 - 🔐 **Authentication System** – Node.js + JWT  
-➡️ Explore more in my [repositories](https://github.com/Gtkkala?tab=repositories)!  
+➡️ Explore more in my [repositories](https://github.com/Gtkkala?tab=repositories)!
+
 ---
 ## 📊 GitHub Stats  
 ![Gtkkala's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gtkkala&show_icons=true&theme=radical)
+
 ---
+
 ## 📫 Connect with Me  
-- 📧 Email: gtkkala1110@example.com  
+- 📧 Email: gtkkala1110@example.com
+   
 ---
+
 ⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_  
