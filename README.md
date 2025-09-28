@@ -1,12 +1,13 @@
-# Hi there 👋, I'm Khaild  
+# Hi there 👋, I'm GTK-kala  
 
 🚀 **Software Engineer | Aspiring Full-Stack Developer**  
 
-I'm passionate about building modern web applications and continuously learning new technologies in full-stack development and related fields. I enjoy solving real-world problems through code and contributing to meaningful projects.
+I'm passionate about building modern web applications and continuously learning new technologies in full-stack development and related fields. I enjoy solving real-world problems through code and contributing to meaningful projects.  
 
 ---
 
-## 🔧 Tech Stack & Skills  
+## 🔧 Tech Stack & Skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,37 +23,54 @@ I'm passionate about building modern web applications and continuously learning 
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-
 ---
 
 ## 🌱 Currently Exploring  
 - Advanced full-stack development practices  
 - Cloud computing & deployment (AWS, Docker, etc.)  
-- Modern backend patterns with Express.js & MySQL
-   
+- Modern backend patterns with Express.js & MySQL  
+
 ---
 
 ## 📂 Featured Projects  
 - 📝 **Task Manager App** – React + Express + MySQL  
 - 📊 **Portfolio Website** – React + CSS  
 - 🔐 **Authentication System** – Node.js + JWT  
-➡️ Explore more in my [repositories](https://github.com/GTK-Kala?tab=repositories)!
+
+➡️ Explore more in my [repositories](https://github.com/GTK-kala?tab=repositories)!  
 
 ---
+
 ## 📊 GitHub Stats  
-![GTK-kala's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTK-kala&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTK-kala&layout=compact&theme=radical)
+![GTK-kala's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTK-kala&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GTK-kala&layout=compact&theme=radical)  
 
 ---
 
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GTK-kala&theme=radical)
+## 🔥 Streak & Activity  
+![GitHub Streak](https://streak-stats.demolab.com?user=GTK-kala&theme=radical)  
 
 ---
 
-## 📫 Connect with Me  
-- 📧 Email: gtkkala1110@example.com
-   
+## 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=GTK-kala&theme=radical&no-frame=true&margin-w=5&margin-h=5)  
+
+---
+
+## 📈 Contribution Graph  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GTK-kala&theme=radical)  
+
+---
+
+## 👀 Visitor Counter  
+![Visitor Count](https://komarev.com/ghpvc/?username=GTK-kala&style=for-the-badge)  
+
+---
+
+## 📫 Connect with Me   
+- 📧 Email: gtkkala1110@gmail.com  
+
 ---
 
 ⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_  
+ 
