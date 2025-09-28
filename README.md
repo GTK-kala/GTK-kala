@@ -62,8 +62,7 @@ I'm passionate about building modern web applications and continuously learning 
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📧 Email: your-email@example.com  
+- 📧 Email: gtkkala1110@example.com  
 
 ---
 
