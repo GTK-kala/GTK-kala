@@ -40,7 +40,8 @@ I'm passionate about building modern web applications and continuously learning 
 
 ---
 ## 📊 GitHub Stats  
-![Gtkkala's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GTK-kala&show_icons=true&theme=radical)
+![GTK-kala's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTK-kala&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTK-kala&layout=compact&theme=radical)
 
 ---
 
