@@ -36,19 +36,18 @@ I'm passionate about building modern web applications and continuously learning 
 ---
 
 ## 📊 GitHub Stats  
-![Gtkkala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gtkkala&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtkkala&layout=compact&theme=radical)  
+![Gtkkala's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gtkkala&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak & Activity  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtkkala&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Gtkkala&theme=radical) 
 
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Gtkkala&theme=radical&no-frame=true&margin-w=5&margin-h=5)  
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Gtkkala&theme=radical&no-frame=true&margin-w=5&margin-h=5)
+  
 ---
 
 ## 📈 Contribution Graph  
@@ -57,8 +56,8 @@ I'm passionate about building modern web applications and continuously learning 
 ---
 
 ## 👀 Visitor Counter  
-![Visitor Count](https://komarev.com/ghpvc/?username=Gtkkala&style=for-the-badge)  
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gtkkala&theme=radical)
+ 
 ---
 
 ## 📫 Connect with Me  
