@@ -40,21 +40,6 @@ I'm passionate about building modern web applications and continuously learning 
 
 ---
 
-## 🔥 Streak & Activity  
-![GitHub Streak](https://streak-stats.demolab.com?user=Gtkkala&theme=radical) 
-
----
-
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Gtkkala&theme=radical&no-frame=true&margin-w=5&margin-h=5)
-  
----
-
-## 📈 Contribution Graph  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gtkkala&theme=radical)  
-
----
-
 ## 👀 Visitor Counter  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gtkkala&theme=radical)
  
