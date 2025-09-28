@@ -44,6 +44,11 @@ I'm passionate about building modern web applications and continuously learning 
 
 ---
 
+## 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GTK-kala&theme=radical)
+
+---
+
 ## 📫 Connect with Me  
 - 📧 Email: gtkkala1110@example.com
    
