@@ -1,4 +1,4 @@
-# Hi there 👋, I'm GTK-kala  
+# Hi there 👋, I'm Khalid  
 
 🚀 **Software Engineer | Aspiring Full-Stack Developer**  
 
