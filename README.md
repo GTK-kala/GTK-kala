@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Khalid  
+# Hi there 👋, I'm Khalid  Daniel
 
 🚀 **Software Engineer | Aspiring Full-Stack Developer**  
 
