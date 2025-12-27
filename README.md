@@ -22,20 +22,7 @@ I'm passionate about building modern web applications and continuously learning 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
 ---
-
-## 🌱 Currently Exploring  
-- Advanced full-stack development practices  
-- Cloud computing & deployment (AWS, Docker, etc.)  
-- Modern backend patterns with Express.js & MySQL  
-
----
-
-## 📂 Featured Projects  
-- 📝 **Task Manager App** – React + Express + MySQL  
-- 📊 **Portfolio Website** – React + CSS  
-- 🔐 **Authentication System** – Node.js + JWT  
 
 ➡️ Explore more in my [repositories](https://github.com/GTK-kala?tab=repositories)!  
 
