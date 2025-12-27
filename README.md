@@ -41,24 +41,8 @@ I'm passionate about building modern web applications and continuously learning 
 
 ---
 
-## 📊 GitHub Stats  
-![GTK-kala's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTK-kala&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GTK-kala&layout=compact&theme=radical)  
-
----
-
 ## 🔥 Streak & Activity  
 ![GitHub Streak](https://streak-stats.demolab.com?user=GTK-kala&theme=radical)  
-
----
-
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=GTK-kala&theme=radical&no-frame=true&margin-w=5&margin-h=5)  
-
----
-
-## 📈 Contribution Graph  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GTK-kala&theme=radical)  
 
 ---
 
