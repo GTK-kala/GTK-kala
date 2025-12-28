@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Aspiring Full-Stack Developer**  
 
-I'm passionate about building modern web applications and continuously learning new technologies in full-stack development and related fields. I enjoy solving real-world problems through code and contributing to meaningful projects.  
+I'm passionate about building modern website, web applications plus  and continuously learning new technologies in full-stack development and related fields. I enjoy solving real-world problems through code and contributing to meaningful projects.  
 
 ---
 
@@ -44,4 +44,3 @@ I'm passionate about building modern web applications and continuously learning 
 ---
 
 ⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_  
- 
