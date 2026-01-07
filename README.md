@@ -24,10 +24,6 @@ I'm passionate about building modern website, web applications and continuously 
 </p>
 ---
 
-➡️ Explore more in my [repositories](https://github.com/GTK-kala?tab=repositories)!  
-
----
-
 ## 🔥 Streak & Activity  
 ![GitHub Streak](https://streak-stats.demolab.com?user=GTK-kala&theme=radical)  
 
